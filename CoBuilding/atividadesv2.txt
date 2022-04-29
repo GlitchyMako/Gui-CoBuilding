@@ -1,0 +1,31 @@
+Criei duas versões das descrições das atividades, uma com mais pormenor e outra com menos, caso queiramos ter uma versão na parte do site inicial, e outra na parte em que as empresas estão a escolher quais querem, fez sentido para mim que aí precisem de mais informação
+
+Labirinto
+Short Pitch
+Uma equipa terá que fugir de um labirinto sombrio, com becos sem saída e muitas armadilhas. O tempo é limitado e o caminho é longo, por isso só com um esforço de grupo será possível ver a luz do dia.
+- Fortalece espirito de equipa e leva à criação orgânica de um líder e à distribuiçãp de papéis.
+
+Long Pitch
+Consiste num espaço isolado, em que o grupo tem que encontrar a saída e evitar uma série de obstáculos. O controlo é muito simples, consistindo de escolhas da direção em que virar, assim como um comando que permite interação com o ambiente.
+Os obstáculos são variados. Há armadilhas ou inimigos, que quando encontrados, obrigam o grupo a recomeçar o labirinto ou até becos sem saída que obrigam o grupo a voltar atrás e tentar outro caminho. Temos também obstáculos secretos, que requerem objetos específicos para serem ultrapassados. Um exemplo disto são portas trancadas, que caso o grupo tenha encontrado uma chave, se tornam em atalhos.
+Resolver o labirinto requer boa capacidade de memorização, tanto para as direções como para o evitar obstáculos ou adquirir objectos especiais. A quantidade de informação requerida para acabar o labirinto é tanta que a melhor forma de resolver é através de cooperação e distribuição de papéis. Uma equipa que chegue a esta conclusão rapidamente irá arranjar forma de encontrar o melhor caminho até ao fim.
+Os pontos avaliados aqui serão:
+-  O número de passos, sendo que cada interação conta como um passo, por isso um beco sem saída implica os passos até se voltar ao caminho certo. Da mesma forma, Uma tentativa de interação onde não existe algo interagível ou não se tem o objecto certo para ultrapassar um obstáculo, implica uma penalização nos passos.
+- Número de mortes - Accionar uma armadilha ou encontrar um inimigo e perder implica recomeçar o labirinto desde o início, perdendo os objectos que se encontraram.
+- Tempo - O tempo para resolver o labirinto será uma contagem decrescente, e chegando ao fim, a atividade termina. Se o labirinto for resolvido antes do tempo acabar, o tempo restante contará para o resultado final. Se não for resolvido, a equipa não receberá esse bónus.
+
+Where's Waldo
+Short Pitch
+Uma equipa dividida precisa de encontrar uma série de objetivos. Uma metade está num balão e vê tudo, mas a outra está no terreno e só vê o que está perto. As duas terão que se guiar uma à outra e encontrar o máximo de objectivos possível.
+- Promove comunicação clara com a necessidade de encontrar um vocabulário comum, para evitar encontrar uma solução em conjunto.
+Long Pitch
+Esta atividade envolve dividir uma equipa em duas partes. Cada uma destas equipas irá ter o seu próprio screen e não poderá ver o da outra metade da equipa. Esta atividade promove comunicação clara e concisa. 
+Uma metade da equipa terá acesso a uma imagem grande, com muitos elementos distintos, sejam eles paisagem, objetos, pessoas, animais, etc. Esta metade da equipa pode fazer zoom na imagem assim como navegar livremente em todas as direções.
+A segunda metade da equipa irá ter a mesma imagem, mas sem controlo sobre o zoom, que estará preso num ponto de ampliação considerável.
+A primeira metade da equipa terá também acesso a uma lista de objectivos, que neste caso são pessoas, animais, objectos, ou outros elementos, mas será apenas uma descrição ou no máximo uma pequena imagem desse objectivo, fora do contexto da imagem total. Esta parte da equipa terá que encontrar estes objectivo na imagem global, e depois guiar a segunda metade da equipa e ajudá-los a encontrar os mesmos objectivos.
+Como a segundas metade tem uma visão limitada da imagem global, terá que haver uma troca de informação, tanto da perspectiva da segunda equipa como da primeira. O segredo para a resolução desta atividade é encontrar pontos de referência para guiar a segunda equipa e também o saber comunicar da melhor forma em que direção seguir.
+Os pontos avaliados aqui serão:
+- Número de objetivos encontrados pela primeira metade da equipa - Acesso à imagem global torna difícil encontrar pormenores mais simples, por isso a primeira equipa terá que olhar com atenção
+- Número de objetivos encontrados pela segunda parte da equipa - A segunda metade da equipa, em geral, só poderá encontrar objectivos que a primeira tiver encontrado primeiro, por isso o resultado final dependerá tanto da comunicação como da observação. Se a segunda metade encontrar o mesmo número que a primeira, excelente.
+- Tempo - Há um limite, e de este for ultrapassado, a atividade termina. Tempo restante conta como bónus para a pontuação.
+
